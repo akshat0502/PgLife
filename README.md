@@ -1,4 +1,7 @@
-<h3>PgLife</h3><b> <br>
+<h1>
+        PgLife
+</h1>
+<br>
         PG (Paying Guest) Finder Project</b> developed using <b> HTML, CSS, JavaScript, React, SQL, PHP, </b>and <b>Bootstrap</b>, the goal is to create a web application where users can search for available PG accommodations based on location, price, amenities, etc. This project involves both front-end and back-end development, where <b>React</b> is used for the front-end, and <b>PHP</b> with <b>SQL</b> is used for handling the back-end logic like retrieving and storing <b>PG data</b>.
         <h3>Project Structure:</h3>
         <ol>
